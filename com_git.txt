@@ -10,3 +10,6 @@ cat название_файла - смотрим конфликтные стро
 git branch first - создаем ветку first, 
 git branch - просмотр веток, 
 git checkout first - переключение на ветку first
+git checkout -b second - создаем и переключаемся на ветку одной командой, 
+git branch -d first - удаляем ветку first, 
+ls - просмотр файлов нв ветке 
