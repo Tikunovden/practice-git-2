@@ -16,3 +16,4 @@ ls - просмотр файлов нв ветке
 
 
 Граф изменений   git log --all --decorate --oneline --graph - Создаем allias для данной команды - git config --global alias.g 'log --all --decorate --oneline -- graph'  
+git clone ssh://user@domain.com/repo.git - Клонировать существующий репозиторий
